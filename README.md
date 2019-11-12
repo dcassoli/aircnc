@@ -1,3 +1,3 @@
 # AirCnC
 
-Aplicação feita na Semana OmniStack usando NodeJS, React JS e React Native
+Aplicação feita na Semana OmniStack 9 usando NodeJS, React JS e React Native
