@@ -1,2 +1,3 @@
-# aircnc
-AirCnC - Node.JS, React JS e React Native
+# AirCnC
+
+Aplicação feita na Semana OmniStack usando NodeJS, React JS e React Native
